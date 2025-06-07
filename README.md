@@ -24,7 +24,7 @@
 ### 🛠️ Tech Stack & Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,jquery,react,tailwind,java,spring,mysql,git,github,bitbucket,postman,vite,vscode,npm,photoshop" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,jquery,react,tailwind,java,spring,mysql,git,github,bitbucket,postgres,postman,vite,vscode,npm,stackoverflow,ps" />
 </p>
 
 ### 🌐 Connect with Me
