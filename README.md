@@ -11,8 +11,10 @@
 ### About Me
 
 - 💼 Senior Software Developer at [**Mutesoft Technologies**](https://mutesoft.com/)
-- 🔭 I’m currently working on updating my portfolio website
-- 🧠 I’m interested in creating clean, practical software solutions
+- 🔭 I’m currently working on updating my [**Portfolio Website**](https://ashimsaha.net/)
+- 🧠 I’m interested in creating clean, practical software solutions.
+- 🚀 I built [**QR Picker**](https://qrpicker.com/), a customizable QR code generator available both as a [**Web App**](https://qrpicker.com/) and a [**Chrome Extension**](https://chromewebstore.google.com/detail/odmflkpkpjbneglnkhocaildbhjiefch)
+- 🧩 I’ve also built handy Chrome extensions like [**Calculator**](https://chromewebstore.google.com/detail/omangjhlpmkibphbkfnjncamdlmoppkm), [**Unit Converter**](https://ashimsaha.net/projects/unit-converter-ext), [**Stopwatch & Timer**](https://ashimsaha.net/projects/stopwatch-timer-ext) — and more — focused on simplicity and everyday utility.
 - 💬 Ask me about anything tech related, I am happy to help.
 - 📫 Feel free to ping me on [**LinkedIn**](https://www.linkedin.com/in/ashimsahawork/)
 
