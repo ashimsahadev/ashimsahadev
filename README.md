@@ -6,12 +6,12 @@ As a Senior Software Developer with over 5 years of experience across Finance, E
 
 ### More About Me
 
-- 💼 Senior Software Developer at [**Mutesoft Technologies**](https://mutesoft.com/)
+- 💼 Senior Software Developer at [**Mutesoft Technologies**](https://mutesoft.com/).
 - 🔭 Currently working on updating my [**Portfolio**](https://ashimsaha.net/) website.
 - 🧠 Passionate about building clean, practical software solutions.
-- 🚀 Built [**QR Picker**](https://qrpicker.com/), a professional-grade QR code generator available both as a web app and a [**Chrome Extension**](https://chromewebstore.google.com/detail/odmflkpkpjbneglnkhocaildbhjiefch)
+- 🚀 Built [**QR Picker**](https://qrpicker.com/), a professional-grade QR code generator available both as a web app and a [**Chrome Extension**](https://chromewebstore.google.com/detail/odmflkpkpjbneglnkhocaildbhjiefch).
 - 💬 Happy to chat about anything tech.
-- 📫 Connect with me on [**LinkedIn**](https://www.linkedin.com/in/ashimsahawork/)
+- 📫 Connect with me on [**LinkedIn**](https://www.linkedin.com/in/ashimsahawork/).
 
 <br>
 
