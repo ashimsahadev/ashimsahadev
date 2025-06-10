@@ -23,12 +23,6 @@ As a Senior Software Developer and UI/UX designer, I enjoy crafting clean, funct
 - [**Add Code Blocks to Your React Blog Using React Syntax Highlighter**](https://ashimsaha.net/blogs/code-block-using-react-syntax-highlighter)  
   _Display gorgeous, readable code snippets in any React-based blog or docs site._
 
-- [**Writing Clean, Consistent Content with Tailwind Typography**](https://ashimsaha.net/blogs/writing-clean-consistent-content-with-tailwind-typography)  
-  _Style long-form prose—headings, lists, code, and more—with a single utility plugin._
-
-- [**The Ultimate Guide to React Icons: The Only Icon Library You’ll Ever Need**](https://ashimsaha.net/blogs/react-icons)  
-  _Access all major icon packs (Font Awesome, Material, HeroIcons, etc.) via one API._
-
 - [**The Ultimate Guide to Vite Plugin Sitemap**](https://ashimsaha.net/blogs/vite-plugin-sitemap)  
   _Auto-generate `sitemap.xml` and `robots.txt` in Vite builds for SEO-friendly sites._
 
