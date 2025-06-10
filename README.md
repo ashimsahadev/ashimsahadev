@@ -1,14 +1,10 @@
-<h1 align="center">Hi there 👋, I'm Ashim</h1>
-<h3 align="center">A passionate Software Developer from India</h3>
+## Hi there 👋, I'm Ashim
 
-<!-- animated typing line -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=I+build+cool+things+with+code;I+love+open-source+and+learning;Welcome+to+my+GitHub+profile!" alt="Typing SVG" />
-</p>
+As a Senior Software Developer with over 5 years of experience across Finance, Education, and Entertainment sectors, I specialize in crafting robust, user-centric applications that balance performance with visual elegance. My work spans UI/UX design, RESTful API development, and database integration—bringing together frontend finesse with backend reliability. I'm proficient in technologies like React, Tailwind CSS, Java, Spring MVC, and SQL, and I thrive in collaborative environments that use tools like GitHub, Jira, and Postman. I’m driven by a passion for building purposeful digital solutions and continuously evolving with the tech landscape.
 
----
+<br>
 
-### About Me
+### More About Me
 
 - 💼 Senior Software Developer at [**Mutesoft Technologies**](https://mutesoft.com/)
 - 🔭 Currently updating my [**Portfolio Website**](https://ashimsaha.net/)
@@ -18,15 +14,15 @@
 - 💬 Happy to chat about anything tech.
 - 📫 Connect with me on [**LinkedIn**](https://www.linkedin.com/in/ashimsahawork/)
 
----
+<br>
 
-### Tech Stack & Tools
+### Languages & Tools
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js,jquery,react,tailwind,java,spring,mysql,git,github,bitbucket,postgres,postman,vite,vscode,npm,stackoverflow,ps" />
 </p>
 
----
+<br>
 
 ### Connect with Me
 
