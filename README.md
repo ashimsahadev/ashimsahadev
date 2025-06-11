@@ -20,11 +20,11 @@ As a Senior Software Developer and UI/UX designer, I enjoy crafting clean, funct
 - [**Leaflet + OpenStreetMap: A Free and Open-Source Alternative to Google Maps**](https://ashimsaha.net/blogs/leaflet-osm-a-free-and-open-source-alternative-to-google-maps)  
   _Build interactive, mobile-friendly maps with Leaflet and crowd-sourced OSM data._
 
-- [**Add Code Blocks to Your React Blog Using React Syntax Highlighter**](https://ashimsaha.net/blogs/code-block-using-react-syntax-highlighter)  
-  _Display gorgeous, readable code snippets in any React-based blog or docs site._
-
 - [**The Ultimate Guide to Vite Plugin Sitemap**](https://ashimsaha.net/blogs/vite-plugin-sitemap)  
   _Auto-generate `sitemap.xml` and `robots.txt` in Vite builds for SEO-friendly sites._
+  
+- [**Add Code Blocks to Your React Blog Using React Syntax Highlighter**](https://ashimsaha.net/blogs/code-block-using-react-syntax-highlighter)  
+  _Display gorgeous, readable code snippets in any React-based blog or docs site._
 
 <br>
 
