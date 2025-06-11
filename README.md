@@ -37,7 +37,7 @@ As a Senior Software Developer and UI/UX designer, I enjoy crafting clean, funct
 ### Languages & Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,jquery,react,tailwind,java,spring,mysql,git,github,bitbucket,postgres,postman,vite,vscode,npm,stackoverflow,ps" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,jquery,react,tailwind,java,spring,hibernate,mysql,git,github,bitbucket,postgres,postman,vite,vscode,idea,npm,netlify,gcp,stackoverflow,ps" />
 </p>
 
 <br>
