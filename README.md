@@ -28,12 +28,6 @@ As a Senior Software Developer and UI/UX designer, I enjoy crafting clean, funct
 
 <br>
 
-### GitHub Stats
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ashimsahadev&theme=tokyonight)
-
-<br>
-
 ### Languages & Tools
 
 <p align="left">
