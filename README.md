@@ -1,3 +1,22 @@
+<div style="position: relative; display: inline-block; width: 100%;">
+  <img src="banner.png" alt="QR Picker - Custom QR Code Generator" style="width: 100%;" />
+  <a href="https://qrpicker.com" target="_blank" style="
+    position: absolute;
+    top: 20px;
+    right: 30px;
+    background-color: #2ea44f;
+    color: white;
+    padding: 8px 12px;
+    border-radius: 6px;
+    text-decoration: none;
+    font-weight: bold;
+    font-family: sans-serif;
+    font-size: 14px;
+  ">
+    Try Now
+  </a>
+</div>
+
 ## Hi there 👋, I'm Ashim
 
 As a Senior Software Developer and UI/UX designer, I enjoy crafting clean, functional applications that blend thoughtful design with real-world impact. I thrive on building intuitive user experiences, writing maintainable code, and turning ideas into reliable, elegant software. Whether it's shaping a smooth front-end interface or architecting a solid back-end, I’m driven by a passion for purposeful, user-focused development.
