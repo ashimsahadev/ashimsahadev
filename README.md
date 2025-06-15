@@ -2,9 +2,6 @@
 
 ## Hi there 👋, I'm Ashim
 
-<a href="mailto:hello@ashimsaha.net">
-  <img align='left' alt="email" src="envelope.svg" height='20px'/>
-</a>
 <a href='https://www.linkedin.com/in/ashimsahadev/'>
   <img target="_blank" align='left' alt="linkedin" src="linkedin.svg" height='20px'/>
 </a>
