@@ -3,13 +3,13 @@
 ## Hi there 👋, I'm Ashim
 
 <a href="mailto:hello@ashimsaha.net">
-  <img align='left' alt="email" src="envelope.svg" height='20px' style="margin-right:20px; filter: invert(1) brightness(0.5);"/>
+  <img align='left' alt="email" src="envelope.svg" height='20px' style="margin-right:16px;"/>
 </a>
 <a href='https://www.linkedin.com/in/ashimsahadev/'>
-  <img target="_blank" align='left' alt="linkedin" src="linkedin.svg" height='20px' style="margin-right:20px; filter: invert(1) brightness(0.5);"/>
+  <img target="_blank" align='left' alt="linkedin" src="linkedin.svg" height='20px' style="margin-right:16px;"/>
 </a>
 <a href='https://twitter.com/thisisashim/'>
-  <img target="_blank" align='left' alt="twitter" src="twitter.svg" height='20px' style="margin-right:20px; filter: invert(1) brightness(0.5);"/>
+  <img target="_blank" align='left' alt="twitter" src="twitter.svg" height='20px' style="margin-right:16px;"/>
 </a>
 
 <br>
