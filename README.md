@@ -15,12 +15,14 @@ As a senior software developer and UI/UX designer, I enjoy crafting clean, funct
 
 <br>
 
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashimsahadev&theme=dark&show_icons=false&hide_border=true&layout=compact&hide_title=true&bg_color=00000000" alt="most used languages" width="360px" />
+
 ### More About Me
 
 - 💼 Senior Software Developer at [**Mutesoft Technologies**](https://mutesoft.com/).
 - 🔭 Currently working on updating my [**Portfolio**](https://ashimsaha.net/) website.
 - 🧠 Passionate about building clean, practical software solutions.
-- 🚀 Built [**QR Picker**](https://qrpicker.com/), a professional-grade QR code generator available both as a web app and a [**Chrome Extension**](https://chromewebstore.google.com/detail/odmflkpkpjbneglnkhocaildbhjiefch).
+- 🚀 Built [**QR Picker**](https://qrpicker.com/): a professional QR code generator for [**web**](https://qrpicker.com/) and [**Chrome**](https://chromewebstore.google.com/detail/odmflkpkpjbneglnkhocaildbhjiefch).
 - 💬 Happy to chat about anything tech.
 - 📫 Connect with me on [**LinkedIn**](https://www.linkedin.com/in/ashimsahadev/).
 
@@ -42,7 +44,7 @@ As a senior software developer and UI/UX designer, I enjoy crafting clean, funct
 ### Languages & Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,jquery,react,tailwind,java,spring,hibernate,mysql,git,github,bitbucket,postgres,postman,vite,vscode,idea,npm,netlify,gcp,stackoverflow,ps,ai" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,jquery,react,tailwind,java,spring,hibernate,mysql,git,github,bitbucket,postgres,postman,vite,vscode,idea,npm,netlify,gcp,stackoverflow,ps,ai" />
 </p>
 
 <br>
