@@ -15,8 +15,6 @@ As a senior software developer and UI/UX designer, I enjoy crafting clean, funct
 
 <br>
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashimsahadev&theme=dark&show_icons=false&hide_border=true&layout=compact&hide_title=true&bg_color=00000000" alt="most used languages" width="360px" />
-
 ### More About Me
 
 - 💼 Senior Software Developer at [**Mutesoft Technologies**](https://mutesoft.com/).
