@@ -2,15 +2,6 @@
 
 ## Hi there 👋, I'm Ashim
 
-<a href='https://www.linkedin.com/in/ashimsahadev/'>
-  <img target="_blank" align='left' alt="linkedin" src="linkedin.svg" height='20px'/>
-</a>
-<a href='https://twitter.com/thisisashim/'>
-  <img target="_blank" align='left' alt="twitter" src="twitter.svg" height='20px'/>
-</a>
-
-<br>
-
 As a senior software developer and UI/UX designer, I enjoy crafting clean, functional applications that blend thoughtful design with real-world impact. I thrive on building intuitive user experiences, writing maintainable code, and turning ideas into reliable, elegant software. Whether it's shaping a smooth front-end interface or architecting a solid back-end, I’m driven by a passion for purposeful, user-focused development.
 
 <br>
